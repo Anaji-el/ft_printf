@@ -40,15 +40,3 @@ int	ft_printf(const char *s, ...)
 	return (count);
 }
 
-// int main()
-// {
-//     int count = 0;
-//     ft_printf("ayoub%d", &count);
-//     printf("\n%d", count);
-// }
-// int main()
-// {
-// 	char *s = "hello";
-//     printf("%d\n",printf("%m\n",s));
-// 	printf("%d\n",ft_printf("%m\n",s));
-// }
